@@ -15,7 +15,7 @@ Your machine needs to be equipted with stable version of Node.js(I was working o
 
 2.Then on both directories run "npm start"
 
-3. Working
+3.Already runing
 
 Default ports:
 
