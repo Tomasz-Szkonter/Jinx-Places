@@ -26,5 +26,7 @@ Default ports:
 ## API key and MongoDB address
 To avoid any unpleasant suprises there is no api key and mongoDB credentials in the project files.
 If you wanna run it you need to:
+
 1.Get your own Google Maps + Geocoding API key and inject it into frontent/public/index.html. There is a special place for it commented in code.
+
 2.You need to create MongoDB cluster and inject credentials for it in backend/app.js. There also is a special place for it commented in code.
