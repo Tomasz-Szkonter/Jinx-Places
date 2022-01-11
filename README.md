@@ -3,18 +3,24 @@ Is an web app developed with MERN Stack. App was made as a trening project to le
 
 ## Projects File System
 Project consits of 2 directories:
+
 1.Front-end
+
 2.Back-end
 
 ## How to run it
 Your machine needs to be equipted with stable version of Node.js(I was working on Node 16.13.2 LTS)
 
 1.Enter directory ./backend and ./frontend in both run "npm install" in termian. You will install all node modules needed by this project.
+
 2.Then on both directories run "npm start"
+
 3. Working
 
 Default ports:
+
 1.frontend - localhost:3000
+
 2.backend - localhost:5000
 
 ## API key and MongoDB address
